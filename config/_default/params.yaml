@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'Digital Music Observatory'
     description: ''
     twitter: 'wowchemy'
   analytics:
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2020-{year} Daniel Antal, Reprex B.V. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
