@@ -44,7 +44,7 @@ to deliver projects.
 Our initial view of the European music value chain is depicted in the
 chart. 
 
-<td style="text-align: center;">{{< figure src="blogposts_2022/Music_value_chain.png" caption="If you think we put something in the wrong place, or you do not find an activity important to you:  [let us know!](https://reprex.nl/#contact)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2022/Music_value_chain.png" caption="If you think we put something in the wrong place, or you do not find an activity important to you:  [let us know!](https://reprex.nl/#contact)." numbered="false" >}}</td>
 
 Our value chain model was perfected in various research and development
 projects that aimed to understand the problems and increase the revenues
@@ -91,7 +91,7 @@ Our value chain helps us designing data collection plans for complex
 analysis of music uses, prices and revenues that we will introduce in a
 subsequent blogpost.
 
-<td style="text-align: center;">{{< figure src="blogposts_2022/full_market_example.jpg" caption="" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2022/full_market_example.jpg" caption="" numbered="false" >}}</td>
 
 
 {{% callout note %}} You can read more about it in our dynamic [The Relevant Market for Music Streaming: Market Definition and Measurement Challenges](https://music-competition.dataobservatory.eu/) document is a versioned work-in-progress publication, available from the Zenodo open

@@ -9,7 +9,7 @@ authors = ["daniel_antal"]
 
 tags = [ "Digital Music Observatory", "Survey harmonization", "Value of music", "Trustworthy AI"]
 
-summary = "Understanding coping strategies with online platforms, their algorithms, piracy and free use, and Covid-19 relief measures. A truly Pan-European data collection."
+summary = "Understanding coping strategies with online platforms, their Algorithms, piracy and free use, and Covid-19 relief measures. A truly Pan-European data collection."
 
 # Featured image
 [image]
@@ -25,7 +25,7 @@ summary = "Understanding coping strategies with online platforms, their algorith
 
 +++
 
-<td style="text-align: center;">{{< figure src="blogposts_2022/CCSID_reCreating_Survey_16x9.png"  caption="If you are a creator yourself, please, [fill out](https://uva.fra1.qualtrics.com/jfe/form/SV_23KHcb7E2xqQFNQ) the survey of 2022 in any EU language. If you represent an artist organization, please, make sure that the survey finds its way to your newsletter and [get in touch](https://reprex.nl/#/contact) with us to get the results---and any further data you need for your work." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2022/CCSID_reCreating_Survey_16x9.png"  caption="If you are a creator yourself, please, [fill out](https://uva.fra1.qualtrics.com/jfe/form/SV_23KHcb7E2xqQFNQ) the survey of 2022 in any EU language. If you represent an artist organization, please, make sure that the survey finds its way to your newsletter and [get in touch](https://reprex.nl/#/contact) with us to get the results---and any further data you need for your work." numbered="false" >}}</td>
 
 
 The **Digital Music Observatory** has harmonized and collected surveys in all European countries about how musicians work and earn their living, and how audiences differ in various countries, metropolitan regions in terms of typical age, visiting probability, spending capacity, and other important factors. We helped music organizations to significantly increase the royalty pay-outs of artists in two countries, and we contributed for the advocacy of fairer compensation and fairer taxation in others. 
@@ -33,7 +33,7 @@ The **Digital Music Observatory** has harmonized and collected surveys in all Eu
 This year we teamed up with the [ReCreating Europe](https://www.recreating.eu/) research consortium of renowned experts in the field of copyright, geography and economics of creativity, sociology of innovation, communication and media studies, cultural policies, Open Knowledge and access to culture, cultural policies, minority rights and disability rights.   We are carrying out a truly pan-European survey in all EU languages about important topics for music and other creators:
 
 - [x] Understanding how much creators are aware of the legal and financial terms that online platforms use that distribute their work
--	Understanding and interest in how AI algorithms contribute to the successful or not successful dissemination of their work, or can support their creative processes
+-	Understanding and interest in how AI Algorithms contribute to the successful or not successful dissemination of their work, or can support their creative processes
 - [x] Understanding and evaluation of fairness in the way internet platforms distribute earnings to creators
 - [x] Attitudes to plagiarism, piracy, and copyright protection
 - [x] Access to Covid-19 relief funds
