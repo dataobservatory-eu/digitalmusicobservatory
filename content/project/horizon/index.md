@@ -33,7 +33,7 @@ url_video: ''
 slides: ""
 ---
 
-<td style="text-align: center;">{{< figure src="blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
 The [OpenMusE](https://music.dataobservatory.eu/usecase/openmuse/) Consortium  brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
 
@@ -50,12 +50,12 @@ By providing continually updated data on five industry pillars – innovation, m
 - [x] **For copyright and neighbouring rights-holders and their organizations**: Value of music, euro value of the value gap, private copying, privacy---we have data and make estimates with all known music value estimation techniques.
 - [x]	**For live music organizations**: Pan-European audience surveys; demographic comparisons of all European audiences; attendance predictions, attendance profiling.
 - [x] **For granting authorities**: we have the world's largest survey-based dataset on how musicians work and live; we create ex ante needs assessment and grants evaluation indicators and ex-post grant evaluation indicators.
-- [x] **For labels and music publishers**: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.
+- [x] **For labels and music publishers**: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube Algorithms; and we measure (meta)data problems and offer scalable solutions.
 - [x] **For music export offices**: we measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.
 
 ## Open collaboration
 Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
 
-<td style="text-align: center;">{{< figure src="blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
 
 

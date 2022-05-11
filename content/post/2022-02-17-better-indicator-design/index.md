@@ -24,7 +24,7 @@ summary = "We want to create open indicators that business users, music organiza
   preview_only = true
 
 +++
-<td style="text-align: center;">{{< figure src="blogposts_2022/Eurostat_using_indicators_way_communicating_captioned.jpg" caption="We follow the Eurostat indicator design guidelines to make sure that our users – cultural ministries, representative organizations of music, large music organization and companies, researcher get the information that they need in usable and precise indicators." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2022/Eurostat_using_indicators_way_communicating_captioned.jpg" caption="We follow the Eurostat indicator design guidelines to make sure that our users – cultural ministries, representative organizations of music, large music organization and companies, researcher get the information that they need in usable and precise indicators." numbered="false" >}}</td>
 
 Many people only trust statistics from the Eurostat service, a U.S. federal service, or from their national statistical offices. Our data provided by market research firms with a premium price.  Our aim is to create open key business performance indicators, evidence-based policy indicators and other statistical indicators for academic research that has a similar or higher level of usability, reliability, and quality. We want to fill the data gaps for the [Music Economy](https://music.dataobservatory.eu/pillars/music-economy/), the [Diversity of Circulation of European Music](https://music.dataobservatory.eu/pillars/diversity-circulation/), [Music & Society](https://music.dataobservatory.eu/pillars/music-and-society/) and [Music Innovation](https://music.dataobservatory.eu/pillars/innovation/) data left by public authorities and international organization with timely, easy-to-import, easy to use indicators and visualizations.
 
@@ -32,7 +32,7 @@ We work using the agile open collaboration method that allows music organization
 
 Our quality assurance program is sometimes the same as in national statistical offices, and sometimes it is different.  We use only open-source statistical software, and we follow the [Open Policy Analysis Guidelines](https://music.dataobservatory.eu/pillars/opa/) for full transparency in our data handling.  We send both our software code and our results to scientific peer review, which is often more rigorous than other internal quality controls.  We use so-called computerized *unit-tests*, often almost 100 of them, that search for signs of any data corruption.
 
-<td style="text-align: center;">{{< figure src="blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash.jpg" caption="See our previous blogpost: [How We Add Value to Public Data With Imputation and Forecasting?](https://music.dataobservatory.eu/post/2021-11-06-indicator_value_added/) with an example on radio market data." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash.jpg" caption="See our previous blogpost: [How We Add Value to Public Data With Imputation and Forecasting?](https://music.dataobservatory.eu/post/2021-11-06-indicator_value_added/) with an example on radio market data." numbered="false" >}}</td>
 
 -	[x]  We involve business, policy and academic users in the entire cycle of indicator design to make sure that they receive the information they need in their decision making process or resaerch, and that the information is correct and well documented.
 

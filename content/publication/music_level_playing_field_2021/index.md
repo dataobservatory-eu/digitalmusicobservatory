@@ -27,7 +27,7 @@ projects = ["Digital Music Observatory"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "music-streaming", "justice", "algorithms", "Spotify", "YouTube", "Deezer"]
+tags = ["market-report", "music-streaming", "justice", "Algorithms", "Spotify", "YouTube", "Deezer"]
 
 # Links (optional).
 url_pdf = ""
