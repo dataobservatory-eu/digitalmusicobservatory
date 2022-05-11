@@ -91,7 +91,7 @@ projects:
 slides: ""
 ---
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
 
 [iotables](https://iotables.dataobservatory.eu/) processes all the symmetric input-output tables of the EU member states, and calculates direct, indirect and induced effects, multipliers for GVA, employment, taxation. These are important inputs into policy evaluation, business forecasting, or granting/development indicator design. 
 
@@ -119,7 +119,7 @@ Replication of known good input-output analysis for package testing and tutorial
 * [Eurostat Manual of Supply, Use and Input-Output Tables](https://iotables.dataobservatory.eu/articles/intro.html)
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
 
 ## Code of Conduct
 

@@ -11,7 +11,7 @@ lastmod = 2022-02-08T11:24:00
 summary = "Music diversity and circulation is a crucial policy and business goal for European music stakeholders. Most European creators work in small countries, often confined to the audiences of a not widely spoken language; moreover, they are in competition with the entire world via media platforms, streaming services and traditional record sales."
 
 # Tags: can be used for filtering projects.
-tags = ["CEEMID", "surveys", "Digital Music Observatory"]
+tags = ["CEEMID", "Surveys", "Digital Music Observatory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -54,7 +54,7 @@ create representative data following our pioneering work made in the
 Central European Music Industry Report and later the Digital Music
 Creators’ Project initiated by the UK Intellectual Property Office.
 
-{{< figure src="/media/img/blogposts_2022/mean_price_plot.png" caption="" numbered="false" >}}
+{{< figure src="/img/blogposts_2022/mean_price_plot.png" caption="" numbered="false" >}}
 
 <table class=" lightable-classic lightable-striped" style="font-size: 14px; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>

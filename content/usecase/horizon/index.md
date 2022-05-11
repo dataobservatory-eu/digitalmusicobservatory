@@ -46,7 +46,7 @@ url_code = ""
   preview_only = true
 +++
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
 The [OpenMusE](https://music.dataobservatory.eu/usecase/openmuse/) Consortium  brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
 
@@ -69,5 +69,5 @@ By providing continually updated data on five industry pillars – innovation, m
 ## Open collaboration
 Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
 

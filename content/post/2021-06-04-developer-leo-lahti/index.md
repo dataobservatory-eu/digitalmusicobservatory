@@ -31,7 +31,7 @@ projects = ["eu-datathon_2021"]
 
 As an academic data scientist whose research focuses on the development of general-purpose algorithmic methods, I work with a range of applications from life sciences to humanities. Population studies play a big role in our research, and often the information that we can draw from public sources - geospatial, demographic, environmental - provides invaluable support. We typically use open data in combination with sensitive research data but some of the research questions can be readily addressed based on open data from statistical authorities such as Statistics Finland or Eurostat.
 
-{{< figure src="/media/img/partners/rOpenGov-intro.png" caption="" numbered="true" >}}
+{{< figure src="/img/partners/rOpenGov-intro.png" caption="" numbered="true" >}}
 
 **In your ideal data world, what would be the ultimate dataset, or datasets that you would like to see in the Music Data Observatory?**
 
@@ -45,7 +45,7 @@ Joining the challenge was a natural development based on our overall activities 
 
 Regarding open government data, one of my favorites is not a single data source but a data representation standard. The [px format](https://www.scb.se/en/services/statistical-programs-for-px-files/#:~:text=PX%20is%20a%20standard%20format,and%20data.) is widely used by statistical authorities in various countries, and this has allowed us to create R tools that allow the retrieval and analysis of official statistics from many countries across Europe, spanning dozens of statistical institutions. Standardization of open data formats allows us to build robust algorithmic tools for downstream data analysis and visualization.  Open government data is still too often shared in obscure, non-standard or closed-source file formats and this is creating significant bottlenecks for the development of scalable and interoperable AI and machine learning methods that can harness the full potential of open data.
 
-{{< figure src="/media/img/developers/PxWeb.png" caption="Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format." numbered="true" >}}
+{{< figure src="/img/developers/PxWeb.png" caption="Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format." numbered="true" >}}
 
 
 **From your perspective, what do you see being the greatest problem with open data in 2021?**

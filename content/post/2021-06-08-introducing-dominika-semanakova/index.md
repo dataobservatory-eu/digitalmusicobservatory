@@ -37,7 +37,7 @@ The idea behind Listen Local is simple: we want machine learning Algorithms of S
 
 We decided to start building such a reference database and collect scattered data about artists to put them in one place for further analytical research. 
 
-{{< figure src="/media/img/streaming/smdb_html_table.png" caption="See the first demo database [here](https://listenlocal.community/post/2020-12-17-demo-slovak-music-database/), and our earlier blogpost [here](/post/2021-04-27-smdb/)." numbered="true" >}}
+{{< figure src="/img/streaming/smdb_html_table.png" caption="See the first demo database [here](https://listenlocal.community/post/2020-12-17-demo-slovak-music-database/), and our earlier blogpost [here](/post/2021-04-27-smdb/)." numbered="true" >}}
 
 
 We made this database by combining several steps. The first step was an online survey for individual artists, bands, and publishers. Through the form responses, we learned, for example, how artists identify their artwork, where they currently perform, or where they would like to perform in the future. 
@@ -56,7 +56,7 @@ We eventually created two parts: in the opt-in, opt-out process, the artists fre
 
 The original problem behind the Listen Local and the Feasibility study was a new law in Slovakia, which aims to promote “Slovak music” in the radio stations of the Slovak Republic. Many countries have such legislation in place, and they pose a lot of very difficult questions. What makes music Slovak? The artist who writes it or performs it? The place of release if it is recorded? The language of the lyrics? Some special music vibes? 
 
-{{< figure src="/media/img/streaming/listen_local_SK_EN.png" caption="See our trustworthy AI-driven music export case study for [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/)" numbered="true" >}}
+{{< figure src="/img/streaming/listen_local_SK_EN.png" caption="See our trustworthy AI-driven music export case study for [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/)" numbered="true" >}}
 
 
 And of course, how do we measure compliance with any mandatory targets set to reach a certain ‘ratio of Slovak content’?  We have shown that if we want to set market share targets, or we want to measure algorithmic biases; first we have to be able to define what we really want when we want more “Slovak music” in radio programs or streaming playlists.
@@ -68,7 +68,7 @@ The database and the Listen Local app offer several recommendations that can be 
 
 Cultural policy makers or education policymakers may want to promote the values of cultural diversity and encourage young people to express themselves in their language of writing, composing, singing, and visual storytelling. 
 
-{{< figure src="/media/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
+{{< figure src="/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
 
 In many European countries, education policies target young people to feel at home in the creative processes of their own culture. This is also the key to generate higher value-added jobs in culture, and to combat the effect of robotization, particularly in manufacturing industries such as car manufacturing or some mass retail services like banking. Competition authorities may also be concerned if a media platform or other entity uses its vertical power in the value chain to monopolize the end-market in radios or streaming platforms successfully and increase/decrease the competitiveness of certain types of music.
 

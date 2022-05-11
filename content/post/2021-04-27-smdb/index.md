@@ -28,11 +28,11 @@ summary = "We use the database to monitor market developments in streaming and r
 
 We use the database to monitor market developments in streaming and radio services, and to detect any problems that may lead to a disadvantageous position for Slovak artists.  We are constantly monitoring if Slovak artists, regardless of their age, genre, gender, or ethnicity enjoy equal opportunity on streaming and radio platforms, and we are devising ways to increase their visibility and earnings.
 
-{{< figure src="/media/img/streaming/smdb_html_table.png" caption="See the first demo database [here](https://listenlocal.community/post/2020-12-17-demo-slovak-music-database/)" numbered="true" >}}
+{{< figure src="/img/streaming/smdb_html_table.png" caption="See the first demo database [here](https://listenlocal.community/post/2020-12-17-demo-slovak-music-database/)" numbered="true" >}}
 
 The SMDB database has opt-in, opt-out features, and a write-in process, where Slovak musicologists determine if an artist should be written into the database.  The database uses data only from public data sources, and any artists who do not feel Slovak, or do not agree with our approach, can be removed at any time.
 
-{{< figure src="/media/img/streaming/listen_local_SK_EN.png" caption="See our trustworthy AI-driven music export case study for [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/)" numbered="true" >}}
+{{< figure src="/img/streaming/listen_local_SK_EN.png" caption="See our trustworthy AI-driven music export case study for [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/)" numbered="true" >}}
 
 Our Demo Music Database was created with the support of the Slovak Arts Council and Consolidated Independent, and in partnership and support with SOZA in 2020.  We are seeking new users and donors to make this database comprehensive and help all artists who feel Slovak to be heard at home and abroad.  With the help of volunteers and Reprex’s own resources, we have added some new features to the database in 2021.
 

@@ -33,7 +33,7 @@ A research team of the University of East Anglia (UEA) the University of Liverpo
 
 The researchers will explore the relationship between the autonomous recommendation systems and entry barriers via simulation. Working closely with Reprex, we will simulate sets of users, and iteratively generate recommendation lists, which the simulated users will react to by deciding how long to engage for and which recommendations to listen to. Through their engagement their user profiles will be updated based on what they listen to which will feed into future recommendations.
 
-<td style="text-align: center;">{{< figure src="/media/img/reports/listen_local_2020/listen_local_study_covers.png" caption="See our Feasibility Study for [Listen Local](https://reprex.nl/publication/listen_local_2020/)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/reports/listen_local_2020/listen_local_study_covers.png" caption="See our Feasibility Study for [Listen Local](https://reprex.nl/publication/listen_local_2020/)." numbered="false" >}}</td>
 
 
 The empirical experiments of the project want to explore how autonomous recommendation systems are driving consumer choice in a real-life setting, and to establish causality between the ARS and the barrier to entry. As part of this work package, the researchers will conduct randomised trials by inviting participants to stream music through our own user interface. Reprex has extensive experience conducting similar experiments in the music domain (for various online, field experiments, and high-quality surveys.)

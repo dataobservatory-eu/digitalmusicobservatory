@@ -27,7 +27,7 @@ projects = ["eu-datathon_2021"]
 
 +++
 
-{{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine." numbered="true" >}}
+{{< figure src="/slides/img/gold_panning_slide_notitle.png" caption="Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine." numbered="true" >}}
 
 **As the founder of the automated data observatories that are part of Reprex’s core activities, what type of data do you usually use in your day-to-day work?**
  
@@ -57,7 +57,7 @@ But to tell a more serious and more sobering number, I recently read with surpri
 
 The real power lies in designing a data collection program. A consistent data collection program usually requires an investment that only powerful organizations, such as government agencies, very large corporations, or the richest universities can afford. You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling.
 
-{{< figure src="/media/img/slides/value_added_from_automation.png" caption="You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling." numbered="true" >}}
+{{< figure src="/slides/img/value_added_from_automation.png" caption="You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling." numbered="true" >}}
 
 **From your perspective, what do you see being the greatest problem with open data in 2021?**
  
@@ -70,7 +70,7 @@ I have been involved with open data policies since 2004. The problem has not cha
  
 Most of our work is in research automation, and a very large part of our efforts are aiming to reverse engineer missing descriptive and processing metadata. In a way, I like to compare ourselves to the working method of the open-source intelligence platform [Bellingcat](https://www.bellingcat.com). They were able to use publicly available, [scattered information from satellites and social media](https://www.bellingcat.com/category/resources/case-studies/?fwp_tags=mh17) to identify each member of the Russian military company that illegally entered the territory of Ukraine and shot down the Malaysian Airways MH17 with 297, mainly Dutch, civilians on board. 
 
-{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="How we create value for research-oriented consultancies, public policy institutes, university research teams, journalists or NGOs." numbered="true" >}}
+{{< figure src="/slides/img/automated_observatory_value_chain.jpg" caption="How we create value for research-oriented consultancies, public policy institutes, university research teams, journalists or NGOs." numbered="true" >}}
 
 We do not do such investigations but work very similarly to them in how we are filtering through many data sources and attempting to verify them when their descriptions and processing history is unknown. In the last years, we were able to estore the metadata of many European and African open data surveys, economic impact, and environmental impact data, or many other open data that was lying around for many years without users. 
 

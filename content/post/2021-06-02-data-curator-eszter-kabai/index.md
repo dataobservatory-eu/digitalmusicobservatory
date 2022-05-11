@@ -39,7 +39,7 @@ The other area I work with is the identification of content, e.g. music and vari
 
 Sometimes data is available for the US or Western European countries but not for the Central and Eastern European region and I suppose even less in countries that are not members of the European Union. Another concern is that analysis is more available for valuable mass repertoires than the small language niche ones -- this is a real problem in the CEE region. As this addresses several cultural diversity and competition issues, I would like to help the creation of datasets that address these aspects, allow comparisons and factual identification of market problems or failures.
 
-{{< figure src="/media/img/comparative/royalty_gap.jpg" caption="Our Digital Music Observatory grew out of the CEEMID project, which brought some data-poor CEE countries to the level of advanced music markets, particularly for pricing reasons." numbered="true" >}}
+{{< figure src="/img/comparative/royalty_gap.jpg" caption="Our Digital Music Observatory grew out of the CEEMID project, which brought some data-poor CEE countries to the level of advanced music markets, particularly for pricing reasons." numbered="true" >}}
 
 **What type of data breakthrough do you see being a game changer for researchers and/or policymakers in your field of work?**
 

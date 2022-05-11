@@ -11,7 +11,7 @@ lastmod = 2022-04-11T17:00:00
 summary = "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
 
 # Tags: can be used for filtering projects.
-tags = ["CEEMID", "surveys", "Digital Music Observatory"]
+tags = ["CEEMID", "Surveys", "Digital Music Observatory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -84,7 +84,7 @@ regional Central European Music Industry Report.[6] All of these
 industry studies addressed the problem of shrinking competitiveness in
 of the small language repertoire in the streaming era.
 
-<td style="text-align: center;">{{< figure src="/media/img/slides/cisac_good_governance_2013.png" caption="Historically CEEMID started out as the _Central and Eastern European Music Industry Databases_ out of necessity following a [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) in 2013, and eventually grew out of an abandoned GESAC project. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/slides/img/cisac_good_governance_2013.png" caption="Historically CEEMID started out as the _Central and Eastern European Music Industry Databases_ out of necessity following a [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) in 2013, and eventually grew out of an abandoned GESAC project. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available." numbered="false" >}}</td>
 
 The _EMO Feasibility Study_ is built on the consensus of many European music
 organizations around a shared understanding “that a European Music
@@ -138,7 +138,7 @@ automated research tools that are creating open datasets, and open
 source software, even our research infrastructure can be fully
 transferred to a future European Music Observatory[12].
 
-<td style="text-align: center;">{{< figure src="/media/img/reports/ceereport_2020/frontcover_wide.jpg" caption="The [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/) concluded the CEEMID project showing that building meaningful statistical indicators for the live performance, recording and publishing sides of the music industry is possible even in seemingly data poor emerging and future markets. Our Report was presented as a [best practice](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) by the European Commission and the Geothe Institute in 2020." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/reports/ceereport_2020/frontcover_wide.jpg" caption="The [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/) concluded the CEEMID project showing that building meaningful statistical indicators for the live performance, recording and publishing sides of the music industry is possible even in seemingly data poor emerging and future markets. Our Report was presented as a [best practice](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) by the European Commission and the Geothe Institute in 2020." numbered="false" >}}</td>
 
 
 We are not planning to make a competing data observatory. We want to
@@ -177,7 +177,7 @@ Grant, and Miguel 2020b; Berkeley Initiative for Transparency in the
 Social Sciences et al. 2020) and they are fully in line with the Open
 Science objectives of the European Union (Commission et al. 2020).
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/OPA_main_figure_with_source.png" caption="Our ambition to increase transparency with introducing the Open Policy Analysis into the European music policies and collaborative data use in the European industry." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2022/OPA_main_figure_with_source.png" caption="Our ambition to increase transparency with introducing the Open Policy Analysis into the European music policies and collaborative data use in the European industry." numbered="false" >}}</td>
 
 We believe that existing data availability is better than that described
 in the *Feasibility study*. As stated in this final report, the 2019
