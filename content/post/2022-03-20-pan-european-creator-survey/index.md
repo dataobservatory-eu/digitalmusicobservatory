@@ -53,7 +53,7 @@ We would like to ask you to ask your members to do the same above, in your newsl
 
 We would be very happy if you would write about this survey or invite creators to participate in our research. We can give you infographics, data visualizations prior to academic publication to write about the results.
 
-<td style="text-align: center;">{{< figure src="blogposts_2021/difficulty_bills_levels.jpg" caption="In our  [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) we compared how musicians and their audiences live in several countries." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2021/difficulty_bills_levels.jpg" caption="In our  [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) we compared how musicians and their audiences live in several countries." numbered="false" >}}</td>
 
 ## Our research principles
 We believe in transparency, openness, and high-quality work.  We carry out an open collaboration with representatives of music professionals, NGOs, and universities. Because in the European music ecosystem, most professional and artists are freelancers or micro-entrepreneurs, we also try to form collaborations with individuals. All our data is open, interoperable, reusable data that comes with the highest quality of documentation and help for reuse. 
@@ -67,5 +67,5 @@ We would appreciate it immensely if you would support this important research by
 
 The *Digital Music Observatory* and its predecessor, [CEEMID](https://reprex.nl/project/ceemid/), has been working with harmonized surveys for 8 years.  We have compiled the biggest database of interview transcripts with concert audiences (more than 70,000 interviews in all European countries, soon to be extended to more than 100k) and the world's biggest harmonized survey dataset about music creators (4000 responses from 12 European countries.) We use the Open Data Directive, originally for government-funded research data, recently extended to taxpayer funded scientific research, to access datasets that are invisible for the music industry.
 
-<td style="text-align: center;">{{< figure src="blogposts_2021/CAP_with_Wales_concerts.jpg" caption="We using survey harmonization and data integration techniques to join hundreds of questionnaire-based research in Europe on music audiences. We are now improving our capacities to bring analysis to sub-national level, like in the example of Wales." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2021/CAP_with_Wales_concerts.jpg" caption="We using survey harmonization and data integration techniques to join hundreds of questionnaire-based research in Europe on music audiences. We are now improving our capacities to bring analysis to sub-national level, like in the example of Wales." numbered="false" >}}</td>
 
