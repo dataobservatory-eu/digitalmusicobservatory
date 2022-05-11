@@ -6,7 +6,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["grants", "ex ante", "music", "royalties"]
+tags = ["Grants", "Ex ante evalution", "Royalties"]
 
 summary = "The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists."
 
@@ -14,7 +14,7 @@ summary = "The data and intelligence of CEEMID was used in Hungary to create an 
 #   Associate this post with one or more of your projects.
 #   Otherwise, set `projects = []`.
 
-projects = ["grants", "CEEMID"]
+projects = ["CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -29,28 +29,6 @@ projects = ["grants", "CEEMID"]
   # Show image only in page previews?
   preview_only = false
 
-
-[[gallery_item]]
-album = "gallery"
-image = "01-featured.JPG"
-caption = "Workshop in the Design Terminal, Budapest"
-
-[[gallery_item]]
-album = "gallery"
-image = "02-mindmap.jpg"
-caption = "Creating the mindmap"
-
-[[gallery_item]]
-album = "gallery"
-image = "03-mindmap.jpg"
-caption = "Excerpt of mindmap"
-
-[[gallery_item]]
-album = "gallery"
-image = "04-professions.png"
-caption = "Participating professions"
-
-
 +++
 
 
@@ -63,8 +41,6 @@ In the workshop, the consultant with several aides facilitates a very structured
 In the latter stages what sort of changes we envision in day practices, programmers, institutions and what concrete steps are needed to be made to get there.  As a controlling step, we assign indicators that can be objectively judged, and which can show the degree of change if recommended actions are taken.
 
 The advantage of the eight-fields methodology, which was originally developed to support EU and global aid program design is that it allows conflicting viewpoints, finding consensus, and display very highly detailed policy and program scenarios already in a day. It is generally a very enjoyable experience for artists and professionals.  If the workshop takes place over 2 days, a first draft program is already presented on the second morning and by the end of the day participants usually have a detailed program.  In this case, we came up with dozens of concrete proposals, many of which could be addressed to the stakeholders themselves without any action taken from the granting authority.
-
-{{< gallery >}}
 
 In the next stage we carried out the annual CEEMID Music Professional Survey with additional questions where artists, managers and technicians could rate the proposals.  They could also optionally give their next year development priorities in the fields of live performances, recordings and composition, in the context of their current work, pre-existing financing and professional assistance of financial assistance needs.  In Hungary, more than 1000 music professionals filled out the survey in 2015.
 

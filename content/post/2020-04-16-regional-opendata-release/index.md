@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["CEEMID", "Open data", "music demand"]
+tags = ["CEEMID", "Open data", "Music demand"]
 
-projects = ["Digital Music Observatory"]
+projects = ["CEEMID"]
 
 summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
 
@@ -25,36 +25,35 @@ summary = "In the preparation to make the CEEMID available as an open-source dat
   # Show image only in page previews?
   preview_only = false
   
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2011.jpg"
-caption = "Internet use: participating in social networks (2011)"
+#[[gallery_item]]
+#album = "gallery"
+#image = "ceemid_regional_social_media_use_2011.jpg"
+#caption = "Internet use: participating in social networks (2011)"
 
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2015.jpg"
-caption = "Internet use: participating in social networks (2015)"
+#[[gallery_item]]
+#album = "gallery"
+#image = "ceemid_regional_social_media_use_2015.jpg"
+#caption = "Internet use: participating in social networks (2015)"
 
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2019.jpg"
-caption = "Internet use: participating in social networks (2019)"
+#[[gallery_item]]
+#album = "gallery"
+#image = "ceemid_regional_social_media_use_2019.jpg"
+#caption = "Internet use: participating in social networks (2019)"
 
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2011.jpg"
-caption = "CEEMID metadata summary (2011)"
+#[[gallery_item]]
+#album = "gallery"
+#image = "metadata_ceemid_regional_social_media_use_2011.jpg"
+#caption = "CEEMID metadata summary (2011)"
 
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2015.jpg"
-caption = "CEEMID metadata summary (2015)"
+#[[gallery_item]]
+#album = "gallery"
+##image = "metadata_ceemid_regional_social_media_use_2015.jpg"
+#caption = "CEEMID metadata summary (2015)"
 
-
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2019.jpg"
-caption = "CEEMID metadata summary (2019)"
+#[[gallery_item]]
+#album = "gallery"
+#image = "metadata_ceemid_regional_social_media_use_2019.jpg"
+#caption = "CEEMID metadata summary (2019)"
 
 
 +++
@@ -76,7 +75,4 @@ The data contains standard national / regional references according the European
 At last, the data was put into a table that complies with the [tidy data](https://www.jstatsoft.org/article/view/v059i10) principles for easier processing on computers and immediate use in spreadsheet applications. 
 
 _Use this in your article? Further research? Collaboration? Let's get in touch on [LinkedIn](https://www.linkedin.com/in/antaldaniel/), [Twitter](https://twitter.com/antaldaniel), or via [danielantal.eu](https://danielantal.eu/#contact)_
-
-
-{{< gallery >}} 
 

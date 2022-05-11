@@ -7,18 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-    identifier: home
+    identifier: Home
+  - name: About
+    url: '#about'
+    weight: 10
+    parent: Home
   - name: Services
     url: '#services'
     weight: 10
-    identifier: home
+    parent: Home
   - name: Blog
     url: '#posts'
     weight: 20
   - name: Data
     url: '#pillars'
     weight: 30
-    parent: Data
+    identifier: Data
   - name: Open Science Repository &#128279;
     url: 'https://zenodo.org/communities/music_observatory'
     weight: 30
@@ -33,13 +37,27 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+    identifier: Publications
+  - name: Featured
+    url: '#featured'
+    weight: 50
+    parent: Publications
+  - name: All Publications
+    url: '#publications'
+    weight: 50
+    parent: Publications
   - name: Contact
     url: '#contact'
     weight: 60
-    identifier: contact
-  - name: Contact
+    identifier: Contact
+  - name: Get in touch
+    url: '#contact'
+    weight: 60
+    parent: Contact
+  - name: Public talks
     url: '#talks'
-    weight: 61
+    weight: 62
+    parent: Contact
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
