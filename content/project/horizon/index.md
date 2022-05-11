@@ -2,11 +2,11 @@
 title: Horizon Europe Consortium
 summary: We are looking for end-users and dissemination partners to test our data and visualization products.
 tags:
-  - Deep Learning
+  - Digital Music Observatory
 date: '2021-10-14T10:00:00'
 lastmod: '2021-05-06T18:52:00'
 
-summary = "OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
+summary: OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers).
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -19,7 +19,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/DigitalMusicObs
 url_code: ''
 url_pdf: ''
 url_slides: ''
