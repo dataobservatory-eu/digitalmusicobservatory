@@ -34,6 +34,18 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
+  - name: Use Case
+    identifier: Use Case
+    url: '#usecase'
+    weight: 45
+  - name: Use Cases
+    parent: Use Case
+    url: '#usecase'
+    weight: 45
+  - name: Software
+    url: '#software'
+    weight: 46
+    parent: Use Case
   - name: Publications
     url: '#featured'
     weight: 50
